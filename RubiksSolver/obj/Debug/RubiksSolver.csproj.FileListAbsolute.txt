@@ -1,0 +1,11 @@
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\bin\Debug\RubiksSolver.exe.config
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\bin\Debug\RubiksSolver.exe
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\bin\Debug\RubiksSolver.pdb
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\obj\Debug\RubiksSolver.csprojAssemblyReference.cache
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\obj\Debug\RubiksSolver.csproj.CoreCompileInputs.cache
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\obj\Debug\RubiksSolver.exe
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\obj\Debug\RubiksSolver.pdb
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\bin\Debug\RubiksSolver.exe.manifest
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\bin\Debug\RubiksSolver.application
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\obj\Debug\RubiksSolver.exe.manifest
+E:\ProgrammingFunStuff\RubiksSolver\RubiksSolver\obj\Debug\RubiksSolver.application
