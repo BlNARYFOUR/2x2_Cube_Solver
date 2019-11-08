@@ -8,6 +8,7 @@ namespace RubiksSolver
 {
     class Program
     {
+        // Made by BinaryFour
         static void Main(string[] args)
         {
             /*
